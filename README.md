@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif"/>
+<img height="200"src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif"/>
 
 **elfaktas/elfaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
