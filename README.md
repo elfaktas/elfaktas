@@ -3,14 +3,23 @@
 <!--
 **elfaktas/elfaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I’m Elif 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work in **Finance (Reporting & Collections)** and enjoy turning messy data into clear, useful insights.  
+Currently focusing on **Excel, Power BI**, and learning **Python** step by step ☕️
+
+## What I do
+- Financial reporting & follow-ups
+- Excel-based tracking and reconciliation
+- Building dashboards and automating repetitive workflows
+
+## Tools I use
+- **Excel** (formulas, pivot tables, clean reporting)
+- **Power BI** (DAX basics, visuals, dashboards)
+- **Python** (learning: pandas, automation fundamentals)
+
+## Featured work
+Here are a few projects I’m building and improving:
+- 📊 **Power BI dashboards** (reporting templates, KPI views)
+- 📁 **Excel automations** (clean trackers, smart summaries)
+- 🐍 **Python mini-projects** (automation practice)
